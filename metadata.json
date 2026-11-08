@@ -1,0 +1,6 @@
+{
+  "name": "SNAPEDIT – Professional Online Photo Editing Studio",
+  "description": "Photoshop-inspired professional online photo editing studio with multi-layer editing, precision adjustment controls, AI object & background removal, filter gallery, text and shape tools, and non-destructive workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
